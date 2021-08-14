@@ -1,3 +1,7 @@
 output/
 *.class
 *.jar
+*.deb
+*.dmg
+*.exe
+*.msi
